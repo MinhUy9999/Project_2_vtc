@@ -62,12 +62,22 @@
               </div>
            </div>
            <div class="inner alignwide">
-               
+               <div id="nav-listener" class="nav-icon-left">
+                <span></span>
+                <span class="top:8px"></span>
+                <span class="top:16px"></span>
+               </div>
+               <div class="logo">
+                   <div class="text-logo">
+                    <a href="index.php">
+                        <span class="title">Cristiano</span>
+                        <span class="description">Restaurant</span>
+                    </a>
+                   </div>
+               </div>
            </div>
         </header>
-        <main>
-            <h1>minh uy</h1>
-        </main>
+       
         <footer>
             <!-- place footer here -->
         </footer>

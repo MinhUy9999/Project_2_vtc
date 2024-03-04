@@ -81,3 +81,36 @@ body{
 .top-bar a:hover{
     color: #d1a054;
 }
+.header-v2 .inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav-listener{
+    width: 25px;
+    height: 18px;
+    transform: rotate(0deg);
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    z-index: 10;
+    display: none;
+}
+#nav-listener span{
+    display: block;
+    position: absolute;
+    width: 100%;
+    border-top: 1px solid;
+    opacity: 1;
+    left: 0;
+    transform: rotate(0deg);
+    transition: .25s ease-in-out;
+}
+.logo{
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+.text-logo{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1;
+}
