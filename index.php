@@ -164,28 +164,233 @@
     <div class="container">
         <div class="image">
             <li class="product">
-                <a href="#"><img src="./images/Salads.jpg" alt=""></a> 
+                <a href="#"><img src="./images/Salads.jpg" alt="">
+                <h2>Salads</h2></a> 
+               
             </li>
-        </div>
-        <div class="image">
             <li class="product">
-                <a href="#"><img src="./images/Salads.jpg" alt=""></a> 
+                <a href="#"><img src="./images/Salads.jpg" alt="">
+                <h2>Salads</h2></a> 
+                
             </li>
-        </div>
-        <div class="image">
             <li class="product">
-                <a href="#"><img src="./images/Salads.jpg" alt=""></a> 
+                <a href="#"><img src="./images/Salads.jpg" alt="">
+                <h2>Salads</h2></a> 
+               
             </li>
-        </div>
-        <div class="image">
             <li class="product">
-                <a href="#"><img src="./images/Salads.jpg" alt=""></a> 
+                <a href="#"><img src="./images/Salads.jpg" alt="">
+                <h2>Salads</h2></a> 
+                
             </li>
         </div>
+       
     </div>
 </div>
+</div>
+       </section>
+       <section class="slider">
+       <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner"  style="width: 1920px;">
+    <div class="carousel-item active" data-bs-interval="10000">
+      <img src="./images/banner2.jpg" class="d-block w-100" alt="...">
+      <div class="details">
+        <h2>Promo Action</h2>
+        <div class="content">
+            <p><b>Ut enim ad minim veniam</b>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+    </div>
+       </div>
+    
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="./images/banner3.jpg" class="d-block w-100" alt="...">
+      <div class="details">
+        <h2>Cristiano Restaurant</h2>
+        <div class="content">
+            <p><b>Ut enim ad minim veniam</b>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+    </div>
+     </div>
+    
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<section></section>
+       </section>
+       <section id="our-menu-preview" class="section-block">
+             <div class="container">
+             <div class="content_order">
+                           <div class="order_title">
+                             <p>Random Dishes</p>
+                             <h3> From Our Menu</h3>
+                           </div>
+                           </div>
+                   <ul class="dishes-menu cols-2 large-imgs drop-style ">
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                                <span class="highlight-text color-pr-bg">Exquisite taste</span>
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                                <span class="highlight-text color-pr-bg">Exquisite taste</span>
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                               
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
+                        <div class="thumbnail">
+                            <span class="zoom-img" style="transform: rotate(1deg)">
+                                <img src="./images/bbq-370x247.jpg" alt="">
+                                 </span>
+                            <img src="./images/bbq-105x105.jpg" alt="">
+                        </div>
+                          <div class="description">
+                            <span class="dm-price">
+                            <span class="dm-price">
+                                 <span class="currency">$</span>13.95
+                                </span>
+                            </span>
+                            <h2>
+                                <span class="title">Escalope de Veau</span>
+                            </h2>
+                            <div class="dots">
+                                <p>Sautéed breaded veal escalope with watercress, lemon and veal jus.</p>
+                            </div>
+                          </div>
+                    </li>
+                    
 
-              </div>
+                   </ul> 
+                   <div class="align-center-margin">
+                    <a href="#" class=" btn-transparent btn-lg" target="_self"><span>View Full Menu</span></a>
+                   </div>       
+             </div>
+       </section>
+
+       <section class="section-block short-info alignfull  ">
+          <h2>Call Us: +38 (012) 34 56 789</h2>
+       </section>
+       <section class="section-block">
+          <div class="section-title v1">
+            <p class="subtitle">Should to Try</p>
+            <h3> Chef Recommends</h3>
+          </div>
+          <div class="products">
+          
+              <div class="product-item">
+                  <div class="product-imag">
+                     <img src="./images/Pizza (1).jpg" alt="">
+                     <div class="price">
+                        <span class="price-title">$</span>15.00
+                     </div>
+                     </div>
+                  </div>
+             
+          </div>
        </section>
       <footer id="footer" class="footer">
            <div class="footer-widgets">
