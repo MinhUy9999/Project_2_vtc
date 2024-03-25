@@ -154,12 +154,12 @@
        </section>
        <section class="order">
               <div class="container">
-                    <div class="content_order">
-                           <div class="order_title">
-                             <p>From 11:00am to 10:00pm</p>
+                    
+                           <div class="section-title v1">
+                             <p class="subtitle">From 11:00am to 10:00pm</p>
                              <h3> Order Online</h3>
                            </div>
-                    </div>
+                    
                     <div class="item_order">
     <div class="container">
         <div class="image">
@@ -226,12 +226,12 @@
        </section>
        <section id="our-menu-preview" class="section-block">
              <div class="container">
-             <div class="content_order">
-                           <div class="order_title">
-                             <p>Random Dishes</p>
-                             <h3> From Our Menu</h3>
+           
+             <div class="section-title v1">
+                             <p class="subtitle">From 11:00am to 10:00pm</p>
+                             <h3> Order Online</h3>
                            </div>
-                           </div>
+                           
                    <ul class="dishes-menu cols-2 large-imgs drop-style ">
                     <li class="item post-74 dishes_menu type-dishes_menu status-publish has-post-thumbnail hentry dishes_categories-desserts dishes_categories-pizza dishes_categories-salads dishes_categories-soups">
                         <div class="thumbnail">
@@ -383,14 +383,82 @@
           
               <div class="product-item">
                   <div class="product-imag">
-                     <img src="./images/Pizza (1).jpg" alt="">
+                     <img src="./images/Pizza (1).jpg" class="rounded-top" alt="">
                      <div class="price">
                         <span class="price-title">$</span>15.00
                      </div>
                      </div>
+                     <div class="description">
+                        <h2>Cherry Pie</h2>
+                        <p>Cherries, Dough, White Sugar, Cheese, Vanilla Ice Cream</p>
+                        <a href="">Add to cart</a>
+                     </div>
                   </div>
-             
+                  <div class="product-item">
+                  <div class="product-imag">
+                     <img src="./images/Pizza (1).jpg" class="rounded-top" alt="">
+                     <div class="price">
+                        <span class="price-title">$</span>15.00
+                     </div>
+                     </div>
+                     <div class="description">
+                        <h2>Cherry Pie</h2>
+                        <p>Cherries, Dough, White Sugar, Cheese, Vanilla Ice Cream</p>
+                        <a href="">Add to cart</a>
+                     </div>
+                  </div>
+                  <div class="product-item">
+                  <div class="product-imag">
+                     <img src="./images/Pizza (1).jpg" class="rounded-top" alt="">
+                     <div class="price">
+                        <span class="price-title">$</span>15.00
+                     </div>
+                     </div>
+                     <div class="description">
+                        <h2>Cherry Pie</h2>
+                        <p>Cherries, Dough, White Sugar, Cheese, Vanilla Ice Cream</p>
+                        <a href="">Add to cart</a>
+                     </div>
+                  </div>
           </div>
+       </section>
+       <section class="our-block">
+       <div class="section-title v1">
+            <p class="subtitle">Should to Try</p>
+            <h3> Chef Recommends</h3>
+          </div>
+          <div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active d-flex">
+      <img src="./images/Pizza.jpg" class="d-block" alt="...">
+      <div>
+        <span>April 3, 2018</span>
+        <h2 class="font-title"><a href="">Where can I get some?</a></h2>
+        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly…</p>
+        <a class="btn btn-transparent" href="">Read More</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
        </section>
       <footer id="footer" class="footer">
            <div class="footer-widgets">
