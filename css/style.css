@@ -881,7 +881,7 @@ border: 1px solid rgba(127, 127, 127, .2);
     left: -50%;
     height: 100%;
     width: 100%;
-    background: linear-gradient(-45deg,#d1a054, #666);
+    background: linear-gradient(-45deg,#d1a054, #1b2024);
     z-index: 6;
     transform: translateX(100%);
     transition: 1s ease-in-out;
@@ -898,7 +898,7 @@ border: 1px solid rgba(127, 127, 127, .2);
     z-index: 5;
 }  
 .content-login{
-    color: #fff;
+    color: #d1a054;
     transition: 1.1s ease-in-out;
     transition-delay: 0.5s;
 }
